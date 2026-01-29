@@ -1,0 +1,184 @@
+[
+  {
+    "id":"Pos_Fun_0001",
+    "input":"suba udhaeesanak",
+    "expected":"සුබ උදෑසනක්"
+  },
+  
+  {
+    "id":"Pos_Fun_0002",
+    "input":"heta gam paeththe yanavadha ?",
+    "expected":"හෙට ගම් පැත්තෙ යනවද ?"
+  },
+  {
+    "id":"Pos_Fun_0003",
+    "input":"machan mata podi prashnayak velaa. apea dhura naeedhaee vena siiyaa kenek naethivelaa. heta ehe yanna velaa thiyenavaa. Lecturer aehuvoth heethuva kiyanavadha? kiyanna next monday  mata godak dhurata enna puluvan veyi kiyala.",
+    "expected":"මචන් මට පොඩි ප්‍රශ්නයක් වෙලා. අපේ දුර නෑදෑ වෙන සීයා කෙනෙක් නැතිවෙලා. හෙට එහෙ යන්න වෙලා තියෙනවා. Lecturer ඇහුවොත් හේතුව කියනවද? කියන්න next monday  මට ගොඩක් දුරට එන්න පුලුවන් වෙයි කියල."
+  },
+  {
+    "id":"Pos_Fun_0004",
+    "input":"mQQ Mr. Athula ta kiyala thiyenne. eyaa oyaata call karayi London walata giyata passe.",
+    "expected":"මං Mr. අතුල ට කියල තියෙන්නෙ. එයා ඔයාට call කරයි London වලට ගියට පස්සෙ."
+  },
+  {
+    "id":"Pos_Fun_0005",
+    "input":"Oyaa magen rupiyal 500, 000 ka Nayak gaththa neadha?",
+    "expected":"ඔයා මගෙන් රුපියල් 500, 000 ක ණයක් ගත්ත නේද?"
+  },
+  {
+    "id":"Pos_Fun_0006",
+    "input":"vahaama ema viidhiyea vaasaya karana soldhaadhuvaagei hisa gasaa dhamanu !",
+    "expected":"වහාම එම වීදියේ වාසය කරන සොල්දාදුවාගේ හිස ගසා දමනු !"
+  },
+  {
+    "id":"Pos_Fun_0007",
+    "input":"eka dhigata vaedama vitharak karagena  giyoth machan, kaalaya kohoma giyaadha kiyala hithannavath baeri veyi. poddak hitha hari gassagena, vaeda tika harima nidhahasea karagena yana eka thamayi vaedhagath. naeththam oluvata tension ekak enna gaththoth, jiivitheama avul yanava. E nisaa poddak chill velaa, hemin hemin vaeda tika karagena yamu. Jiivithe kiyanne race ekak neveyi ne machan…  relax ekea, set velaa, steady gamanak yanna thiyenne.",
+    "expected":"එක දිගට වැඩම විතරක් කරගෙන  ගියොත් මචන්, කාලය කොහොම ගියාද කියල හිතන්නවත් බැරි වෙයි. පොඩ්ඩක් හිත හරි ගස්සගෙන, වැඩ ටික හරිම නිදහසේ කරගෙන යන එක තමයි වැදගත්. නැත්තම් ඔලුවට tension එකක් එන්න ගත්තොත්, ජීවිතේම අවුල් යනව. එ නිසා පොඩ්ඩක් chill වෙලා, හෙමින් හෙමින් වැඩ ටික කරගෙන යමු. ඦීවිතෙ කියන්නෙ race එකක් නෙවෙයි නේ මචන්…  relax එකේ, සෙට් වෙලා, steady ගමනක් යන්න තියෙන්නෙ."
+  },
+  {
+    "id":"Pos_Fun_0008",
+    "input":"mQQ oyata      kivvane, \nmata \nedhaata                                  party \nekata \nenna  \n                     baee.",
+    "expected":"මං ඔයට      කිව්වනෙ, \nමට \nඑදාට                                  party \nඑකට \nඑන්න  \n                     බෑ."
+  },
+  {
+    "id":"Pos_Fun_0009",
+    "input":"ayiyoo ! magea campus ID eka naethi velaa. dhaen mQQ mokadha karanne? kaatahari email ekak dhaanna oonidha?",
+    "expected":"අයියෝ ! මගේ campus ID එක නැති වෙලා. දැන් මං මොකද කරන්නේ? කාටහරි email එකක් දාන්න ඕනිද?"
+  },
+  {
+    "id":"Pos_Fun_0010",
+    "input":"mama iiye pansal giyaa",
+    "expected":"මම ඊයෙ පන්සල් ගියා"
+  },
+  {
+    "id":"Pos_Fun_0011",
+    "input":"Town ekea accident ekak velaa. 3 k naethivelaa. 5 dhenek hospital ekee.",
+    "expected":"Town එකේ accident එකක් වෙලා. 3 ක් නැතිවෙලා. 5 දෙනෙක් hospital එකේ."
+  },
+  {
+    "id":"Pos_Fun_0012",
+    "input":"oyaa eeka gaena hiraanta kivvadha? ikmanata kiyanna, godak kal naeene.",
+    "expected":"ඔයා ඒක ගැන හිරාන්ට කිව්වද? ඉක්මනට කියන්න, ගොඩක් කල් නෑනෙ."
+  },
+  {
+    "id":"Pos_Fun_0013",
+    "input":"ehema kohomadha karanne !! api salli gevalane aave!. eyaalata ooni vidhihata karanne kohomadha?",
+    "expected":"එහෙම කොහොමද කරන්නේ !! අපි සල්ලි ගෙවලනෙ ආවෙ!. එයාලට ඕනි විදිහට කරන්නේ කොහොමද?"
+  },
+  {
+    "id":"Pos_Fun_0014",
+    "input":"ohu koopi bivvea naetha",
+    "expected":"ඔහු කෝපි බිව්වේ නැත"
+  },
+  {
+    "id":"Pos_Fun_0015",
+    "input":"ADhyaapanika prathisQQskaraNa harahaa vishleashaNaathmaka chinthana haekiyaavan shakthimath karagatha haekiya.",
+    "expected":"අධ්යාපනික ප්‍රතිසංස්කරණ හරහා විශ්ලේශණාත්මක චින්තන හැකියාවන් ශක්තිමත් කරගත හැකිය."
+  },
+  {
+    "id":"Pos_Fun_0016",
+    "input":"Oyaage debit card ekea CVV eka kaath ekkavath share karanna epaa.",
+    "expected":"ඔයාගෙ debit card එකේ CVV එක කාත් එක්කවත් share කරන්න එපා."
+  },
+  {
+    "id":"Pos_Fun_0017",
+    "input":"eeka LinkedIn ekee share karanna",
+    "expected":"ඒක LinkedIn එකේ share කරන්න"
+  },
+  {
+    "id":"Pos_Fun_0018",
+    "input":"aee ??? ee mokakdha ee vunee??",
+    "expected":"ඈ ??? ඒ මොකක්ද ඒ වුනේ??"
+  },
+  {
+    "id":"Pos_Fun_0019",
+    "input":"labana maase godak dhurata eyaa rata yaavi. ethakota balamu.",
+    "expected":"ලබන මාසෙ ගොඩක් දුරට එයා රට යාවි. එතකොට බලමු."
+  },
+  {
+    "id":"Pos_Fun_0020",
+    "input":"oyaage laptop ekee RAM eka kiiyadha?",
+    "expected":"ඔයාගෙ laptop එකේ RAM එක කීයද?"
+  },
+  {
+    "id":"Pos_Fun_0021",
+    "input":"ehemadha ? \nhari kamak naee. \nmQQma balannamko.",
+    "expected":"එහෙමද ? \nහරි කමක් නෑ. \nමංම බලන්නම්කො."
+  },
+  {
+    "id":"Pos_Fun_0022",
+    "input":"apita hithenava samahara velaavata “ayiyoo meaka nam baeri vaedak” kiyala. Eth poddak try ekak dhunnaama vaedee goda dhaaganna puluvan kiyala theerenavaa. ee nisaa vaedak dhaekka gaman baya velaa back venna epaa. poddak guts thiyaagena, full focus eka dhaala vaedeeta bahina eka thamayi vaedhagath. Ehema karaama anthimata baladhdhi apitama pudhuma hithenavaa, “adee meka mQQ karala needha” kiyala.",
+    "expected":"අපිට හිතෙනව සමහර වෙලාවට “අයියෝ මේක නම් බැරි වැඩක්” කියල. එත් පොඩ්ඩක් try එකක් දුන්නාම වැඩේ ගොඩ දාගන්න පුලුවන් කියල තේරෙනවා. ඒ නිසා වැඩක් දැක්ක ගමන් බය වෙලා back වෙන්න එපා. පොඩ්ඩක් guts තියාගෙන, full focus එක දාල වැඩේට බහින එක තමයි වැදගත්. එහෙම කරාම අන්තිමට බලද්දි අපිටම පුදුම හිතෙනවා, “අඩේ මෙක මං කරල නේද” කියල."
+  },
+  {
+    "id":"Pos_Fun_0023",
+    "input":"Adha udhee mama ikmanin naegitala muhuNa soodhala kaema kaala vaedata yanna suudhaanam unaa. paarata baehaela bus ekata naegala janeele laga iDHAgena paara dhigee balamin giyaa. Magadhi kadeekin thee kooppayak gaththa. vaedata giyaama yaaluvoth ekka kathaa karala dhavasee vaeda tika hemin hemin karagena giyaa. dhaval velaavee kaema kaala poddak viveeka gaththa. Havasata vaeda ivara karala aapahu bus eken gedhara aava. gedhara aevith naala karala, tika velaavak TV balala, passe raathrii kaeema kaala nidhaaganna suudhaanam unaa.",
+    "expected":"අද උදේ මම ඉක්මනින් නැගිටල මුහුණ සෝදල කැම කාල වැඩට යන්න සූදානම් උනා. පාරට බැහැල bus එකට නැගල ජනේලෙ ලග ඉඳගෙන පාර දිගේ බලමින් ගියා. මගදි කඩේකින් තේ කෝප්පයක් ගත්ත. වැඩට ගියාම යාලුවොත් එක්ක කතා කරල දවසේ වැඩ ටික හෙමින් හෙමින් කරගෙන ගියා. දවල් වෙලාවේ කැම කාල පොඩ්ඩක් විවේක ගත්ත. හවසට වැඩ ඉවර කරල ආපහු bus එකෙන් ගෙදර ආව. ගෙදර ඇවිත් නාල කරල, ටික වෙලාවක් TV බලල, පස්සෙ රාත්‍රී කෑම කාල නිදාගන්න සූදානම් උනා."
+  },
+  {
+    "id":"Pos_Fun_0024",
+    "input":"labana sathiye eyaalage gedhara yanna venne naeene?",
+    "expected":"ලබන සතියෙ එයාලගෙ ගෙදර යන්න වෙන්නෙ නෑනෙ?"
+  },
+  {
+    "id":"Pos_Fun_0025",
+    "input":"graamaseevakamahaththayaaehemakaranavatakaemathinaee.",
+    "expected":"ග්‍රාමසේවකමහත්තයාඑහෙමකරනවටකැමතිනෑ."
+  },
+  {
+    "id":"Pos_Fun_0026",
+    "input":"oyaa dhaekkadha eyaala yanava?",
+    "expected":"ඔයා දැක්කද එයාල යනව?"
+  },
+  {
+    "id":"Neg_Fun_0001",
+    "input":"Aayuboovan! Obata adha dhinaya ithaamath suvadhaayaka, saamakaami saha saarThaka ekak veavaayi hrudhayaangamayen praarthanaa karanavaa. Jiivithayea apata hamuvena saema abhiyoogayakma apava thavath shakthimath karana avasthaavak lesa dhaekiimata haeki veavaa. Obea sitha sathutin, vishvaasayen saha aadharayen piri thibeavaa. Adha oba karana saema kaaryayakama obata nava athdhaekiim, nava avaboodhayan  laebaevaa. Obe pavulea aya saha hithavathun samaga suhadhava kaalaya gatha kiriimata, obee sithata nidhahasak laebiimata haeki veavaayi mama praarthanaa karami.",
+    "expected":"ආයුබෝවන්! ඔබට අද දිනය ඉතාමත් සුවදායක, සාමකාමි සහ සාර්ථක එකක් වේවායි හ්‍රුදයාන්ගමයෙන් ප්‍රාර්තනා කරනවා. ඦීවිතයේ අපට හමුවෙන සැම අබ්හියෝගයක්ම අපව තවත් ශක්තිමත් කරන අවස්තාවක් ලෙස දැකීමට හැකි වේවා. ඔබේ සිත සතුටින්, විශ්වාසයෙන් සහ ආදරයෙන් පිරි තිබේවා. අද ඔබ කරන සැම කාර්යයකම ඔබට නව අත්දැකීම්, නව අවබෝදයන්  ලැබැවා. ඔබෙ පවුලේ අය සහ හිතවතුන් සමග සුහදව කාලය ගත කිරීමට, ඔබේ සිතට නිදහසක් ලැබීමට හැකි වේවායි මම ප්‍රාර්තනා කරමි."
+  },
+  {
+    "id":"Neg_Fun_0002",
+    "input":"deadline eka maarthu 25 venidhaa. edhaata kalin meaka submit karanna ooni.",
+    "expected":"deadline එක මාර්තු 25 වෙනිදා. එදාට කලින් මේක submit කරන්න ඕනි"
+  },
+  {
+    "id":"Neg_Fun_0003",
+    "input":"Samaajiiya antharkriyaakaariithvaya varDhanaya kirima saDHAhaa sQQveadhii sQQvaadha shailin pavathvaa ganima athyavashyayi.",
+    "expected":"සමාජීය අන්තර්ක්‍රියාකාරීත්වය වර්ධනය කිරිම සඳහා සංවේදී සංවාද ශෛලින් පවත්වා ගනිම අත්යවශ්යයි."
+  },
+  {
+    "id":"Neg_Fun_0004",
+    "input":"prajaathanthravaadhii paalana viyuhaya thula puravaesi sahaBhaagiithvaya ihala nQQvaagaeniima pragathishiilii sQQvarDhanayata dhaayaka vee.",
+    "expected":"ප්‍රජාතන්ත්‍රවාදී පාලන වියුහය තුල පුරවැසි සහභාගීත්වය ඉහල නංවාගැනීම ප්‍රගතිශීලී සංවර්ධනයට දායක වේ."
+  },
+  {
+    "id":"Neg_Fun_0005",
+    "input":"paarisarika sQQrakshana prathipaththi kriyaathmaka kirimen dhiirghakaaliina jaivavividhathva sthaayiithaavaya thahavuru kala haekiya.",
+    "expected":"පාරිසරික සංරක්ශන ප්‍රතිපත්ති ක්‍රියාත්මක කිරිමෙන් දීර්ඝකාලීන ජෛවවිවිදත්ව ස්තායීතාවය තහවුරු කල හැකිය."
+  },
+  {
+    "id":"Neg_Fun_0006",
+    "input":"thaakshanika navoothpaadhana anugrahayen aarthika kaaryakshamathaavaya saelakiya yuthu lesa varDhanaya vee.",
+    "expected":"තාක්ශනික නවෝත්පාදන අනුග්‍රහයෙන් ආර්තික කාර්යක්ශමතාවය සැලකිය යුතු ලෙස වර්ධනය වේ."
+  },
+  {
+    "id":"Neg_Fun_0007",
+    "input":"Jiivithayee saarthakathvayata vaedhagath vana karuNu 3k atha: (1) Ivasiima, (2) kaepaviima, (3) AKaNda uthsaahaya. Oba dhinakata paeya 24k thula kaalaya vaeya karana aakaaraya  , obe anaagathaya thiiraNaya karayi. udhaaharaNayak lesa, dhinakata paeya 2k nava dhaenuma labaa gaeniimata vaeya karoth, maasa 6k thula obata vishaala venasak dhaekagatha haeki veevi. Ebaevin, kaalaya nisi lesa kalamanaakaraNaya karamin, obee ilakkaya karaa gaman kiriima vaedhagathya.",
+    "expected":"ඦීවිතයේ සාර්තකත්වයට වැදගත් වන කරුණු 3ක් අත: (1) ඉවසීම, (2) කැපවීම, (3) අඛණ්ඩ උත්සාහය. ඔබ දිනකට පැය 24ක් තුල කාලය වැය කරන ආකාරය  , ඔබෙ අනාගතය තීරණය කරයි. උදාහරණයක් ලෙස, දිනකට පැය 2ක් නව දැනුම ලබා ගැනීමට වැය කරොත්, මාස 6ක් තුල ඔබට විශාල වෙනසක් දැකගත හැකි වේවි. එබැවින්, කාලය නිසි ලෙස කලමනාකරණය කරමින්, ඔබේ ඉලක්කය කරා ගමන් කිරීම වැදගත්ය."
+  },
+  {
+    "id":"Neg_Fun_0008",
+    "input":"budhDhimaya vimarshanashiiliithvaya varDhanaya karagaeniima magin pudhgalayaagee thiiranaathmaka vichakshanathaavaya suvisheeshii lesa prabala vee.",
+    "expected":"බුද්ධිමය විමර්ශනශීලීත්වය වර්ධනය කරගැනීම මගින් පුද්ගලයාගේ තීරනාත්මක විචක්ශනතාවය සුවිශේශී ලෙස ප්‍රබල වේ."
+  },
+  {
+    "id":"Neg_Fun_0009",
+    "input":"AaDhyaathmika avabooDhaya, budhDhimaya sQQveedhiithaavaya haa vichakshana chinthana rataava ekineka samaga gaeBUrin sambandha vuu vita, pudhgalayaagee looka dhrushtiya sampuurnayenma pariNAAmayata lak vee. Evaeni parinaamiiya avasthaavakadhii, dhrushya maana sidhDhiin pamanak nova, eevaata pasupasin kriyaathmaka vana heethu-prathiheethu sambanDhathaa dha nivaeradhiva avabooDha karagaeniimata haeki vee. Mee gaeBUru avabooDhaya pudhgalayaata sQQkiirNa gaetalu vimarshanaya kara, saaDhaaraNa haa dhigukaaliina prathiPala labaa dhena thiiraNa gannata manaa magapenvimak sapayayi. Emenma, jiivithayee arThaya, vagakiim saha agayan pilibaDHa savistharaathmaka matha vimasumak sidhu kiriimata meya upakaarii vee.",
+    "expected":"ආධ්යාත්මික අවබෝධය, බුද්ධිමය සංවේදීතාවය හා විචක්ශන චින්තන රටාව එකිනෙක සමග ගැඹුරින් සම්බන්ද වූ විට, පුද්ගලයාගේ ලෝක ද්‍රුශ්ටිය සම්පූර්නයෙන්ම පරිණාමයට ලක් වේ. එවැනි පරිනාමීය අවස්තාවකදී, ද්‍රුශ්ය මාන සිද්ධීන් පමනක් නොව, ඒවාට පසුපසින් ක්‍රියාත්මක වන හේතු-ප්‍රතිහේතු සම්බන්ධතා ද නිවැරදිව අවබෝධ කරගැනීමට හැකි වේ. මේ ගැඹුරු අවබෝධය පුද්ගලයාට සංකීර්ණ ගැටලු විමර්ශනය කර, සාධාරණ හා දිගුකාලීන ප්‍රතිඵල ලබා දෙන තීරණ ගන්නට මනා මගපෙන්විමක් සපයයි. එමෙන්ම, ජීවිතයේ අර්ථය, වගකීම් සහ අගයන් පිලිබඳ සවිස්තරාත්මක මත විමසුමක් සිදු කිරීමට මෙය උපකාරී වේ."
+  },
+  {
+    "id":"Neg_Fun_0010",
+    "input":"thaakshaNika navoothpaadhana, samaajiiya vyuhagatha kriyaakaariithvaya saha aarthika padhDhathi athara pavathina sQQkiirNa antharsambanDhathaavaya vimarshanaya kiriimen, varthamaana samaajayee parinaamiiya gamanmaga paehaedhiliva haDHUnaa gatha haeki vee. Me antharkriyaakaariithvaya avabooDha karagaeniimen prathipaththi sampaadhakayanta, paryeeshakayanta saha sQQvarDhana saelasumkaruvanta praayoogika haa dhigukaaliina visadhum nirmaaNaya kirimata vadaath sudhusu padhanamak laebei. Eseema, sthaayii sQQvarDhanaya, samaaja saaDhaaraNathvaya saha aarthika kaaryakshamathvaya athara samathulithabaavayak pavathvaa gaeniimata avashya muulika dhrushtikoonayan godanaegiimata dha meya maga penvayi.",
+    "expected":"තාක්ශණික නවෝත්පාදන, සමාජීය ව්යුහගත ක්‍රියාකාරීත්වය සහ ආර්තික පද්ධති අතර පවතින සංකීර්ණ අන්තර්සම්බන්ධතාවය විමර්ශනය කිරීමෙන්, වර්තමාන සමාජයේ පරිනාමීය ගමන්මග පැහැදිලිව හඳුනා ගත හැකි වේ. මෙ අන්තර්ක්‍රියාකාරීත්වය අවබෝධ කරගැනීමෙන් ප්‍රතිපත්ති සම්පාදකයන්ට, පර්යේශකයන්ට සහ සංවර්ධන සැලසුම්කරුවන්ට ප්‍රායෝගික හා දිගුකාලීන විසදුම් නිර්මාණය කිරිමට වඩාත් සුදුසු පදනමක් ලැබේ. එසේම, ස්තායී සංවර්ධනය, සමාජ සාධාරණත්වය සහ ආර්තික කාර්යක්ශමත්වය අතර සමතුලිතබාවයක් පවත්වා ගැනීමට අවශ්ය මූලික ද්‍රුශ්ටිකෝනයන් ගොඩනැගීමට ද මෙය මග පෙන්වයි."
+  }
+  
+]
