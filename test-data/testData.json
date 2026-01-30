@@ -132,53 +132,53 @@
   },
   {
     "id":"Neg_Fun_0001",
-    "input":"Aayuboovan! Obata adha dhinaya ithaamath suvadhaayaka, saamakaami saha saarThaka ekak veavaayi hrudhayaangamayen praarthanaa karanavaa. Jiivithayea apata hamuvena saema abhiyoogayakma apava thavath shakthimath karana avasthaavak lesa dhaekiimata haeki veavaa. Obea sitha sathutin, vishvaasayen saha aadharayen piri thibeavaa. Adha oba karana saema kaaryayakama obata nava athdhaekiim, nava avaboodhayan  laebaevaa. Obe pavulea aya saha hithavathun samaga suhadhava kaalaya gatha kiriimata, obee sithata nidhahasak laebiimata haeki veavaayi mama praarthanaa karami.",
-    "expected":"ආයුබෝවන්! ඔබට අද දිනය ඉතාමත් සුවදායක, සාමකාමි සහ සාර්ථක එකක් වේවායි හ්‍රුදයාන්ගමයෙන් ප්‍රාර්තනා කරනවා. ඦීවිතයේ අපට හමුවෙන සැම අබ්හියෝගයක්ම අපව තවත් ශක්තිමත් කරන අවස්තාවක් ලෙස දැකීමට හැකි වේවා. ඔබේ සිත සතුටින්, විශ්වාසයෙන් සහ ආදරයෙන් පිරි තිබේවා. අද ඔබ කරන සැම කාර්යයකම ඔබට නව අත්දැකීම්, නව අවබෝදයන්  ලැබැවා. ඔබෙ පවුලේ අය සහ හිතවතුන් සමග සුහදව කාලය ගත කිරීමට, ඔබේ සිතට නිදහසක් ලැබීමට හැකි වේවායි මම ප්‍රාර්තනා කරමි."
+    "input":"Imowhatsapphaemaekkamamageeaccountsthiyenavaa",
+    "expected":"Imowhatsappහැමඑක්කමමගේaccountsතියෙනවා"
   },
   {
     "id":"Neg_Fun_0002",
-    "input":"deadline eka maarthu 25 venidhaa. edhaata kalin meaka submit karanna ooni.",
-    "expected":"deadline එක මාර්තු 25 වෙනිදා. එදාට කලින් මේක submit කරන්න ඕනි"
+    "input":"youtubevideobaeluvaa",
+    "expected":"youtubevideoබැලුවා"
   },
   {
     "id":"Neg_Fun_0003",
-    "input":"Samaajiiya antharkriyaakaariithvaya varDhanaya kirima saDHAhaa sQQveadhii sQQvaadha shailin pavathvaa ganima athyavashyayi.",
-    "expected":"සමාජීය අන්තර්ක්‍රියාකාරීත්වය වර්ධනය කිරිම සඳහා සංවේදී සංවාද ශෛලින් පවත්වා ගනිම අත්යවශ්යයි."
+"input":"AdhamamaLaptopekaopenkaralaWindowsupdatekaragaththa,eetapasseGoogleMeetekenonlineclassekatajoinvunaa.lectureekaiwarawunatapasseYouTubevideobaluwa, WhatsAppgroupekemessagesvalatareplykara.hawasataSpotifyplaylistekakplaykaragenacoffeeekakbominrelaxvuna..",
+    "expected":"අදමමlaptopඑකopenකරලාWindowsupdateකරගත්තා.ඊටපස්සේGoogleMeetඑකෙන්onlineclassඑකටjoinවුනා.Lectureඑකඉවරඋනාටපස්සේYouTubevideoබැලුවා,Whatsappgroupඑකේmessagesවලටreplyකරා.හවසටSpotifyplaylistඑකක්playකරගෙනcofeeඑකක්‌බොමින්relaxවුනා."
   },
   {
     "id":"Neg_Fun_0004",
-    "input":"prajaathanthravaadhii paalana viyuhaya thula puravaesi sahaBhaagiithvaya ihala nQQvaagaeniima pragathishiilii sQQvarDhanayata dhaayaka vee.",
-    "expected":"ප්‍රජාතන්ත්‍රවාදී පාලන වියුහය තුල පුරවැසි සහභාගීත්වය ඉහල නංවාගැනීම ප්‍රගතිශීලී සංවර්ධනයට දායක වේ."
+    "input":"linkedInprofileekakhadhannaooni",
+    "expected":"LinkedInprofileඑකක්හදන්නඕනි"
   },
   {
     "id":"Neg_Fun_0005",
-    "input":"paarisarika sQQrakshana prathipaththi kriyaathmaka kirimen dhiirghakaaliina jaivavividhathva sthaayiithaavaya thahavuru kala haekiya.",
-    "expected":"පාරිසරික සංරක්ශන ප්‍රතිපත්ති ක්‍රියාත්මක කිරිමෙන් දීර්ඝකාලීන ජෛවවිවිදත්ව ස්තායීතාවය තහවුරු කල හැකිය."
+    "input":"MamaGoogleChromebhaavithaakaralaGmailcheckkara,passeZoomeetingekatajoinvelaaofficevaedatikacompletekala",
+    "expected":"මමGoogleChromeභාවිතකරලාGmailcheck කරා,පස්සේZoommeetingඑකටjoinවෙලාofficeවැඩටිකcompleteකලා."
   },
   {
     "id":"Neg_Fun_0006",
-    "input":"thaakshanika navoothpaadhana anugrahayen aarthika kaaryakshamathaavaya saelakiya yuthu lesa varDhanaya vee.",
-    "expected":"තාක්ශනික නවෝත්පාදන අනුග්‍රහයෙන් ආර්තික කාර්යක්ශමතාවය සැලකිය යුතු ලෙස වර්ධනය වේ."
+    "input":"mamaAluthenSamsungPhoneekakbuykaraa.eetapassefacebookinstagramtelegramappsinstallkaraa",
+    "expected":"මමඅලුතෙන්SamsungPhoneඑකක්‌buyකරා.ඊටපස්සේfacebookinstagramtelegramappinstallකරා"
   },
   {
     "id":"Neg_Fun_0007",
-    "input":"Jiivithayee saarthakathvayata vaedhagath vana karuNu 3k atha: (1) Ivasiima, (2) kaepaviima, (3) AKaNda uthsaahaya. Oba dhinakata paeya 24k thula kaalaya vaeya karana aakaaraya  , obe anaagathaya thiiraNaya karayi. udhaaharaNayak lesa, dhinakata paeya 2k nava dhaenuma labaa gaeniimata vaeya karoth, maasa 6k thula obata vishaala venasak dhaekagatha haeki veevi. Ebaevin, kaalaya nisi lesa kalamanaakaraNaya karamin, obee ilakkaya karaa gaman kiriima vaedhagathya.",
-    "expected":"ඦීවිතයේ සාර්තකත්වයට වැදගත් වන කරුණු 3ක් අත: (1) ඉවසීම, (2) කැපවීම, (3) අඛණ්ඩ උත්සාහය. ඔබ දිනකට පැය 24ක් තුල කාලය වැය කරන ආකාරය  , ඔබෙ අනාගතය තීරණය කරයි. උදාහරණයක් ලෙස, දිනකට පැය 2ක් නව දැනුම ලබා ගැනීමට වැය කරොත්, මාස 6ක් තුල ඔබට විශාල වෙනසක් දැකගත හැකි වේවි. එබැවින්, කාලය නිසි ලෙස කලමනාකරණය කරමින්, ඔබේ ඉලක්කය කරා ගමන් කිරීම වැදගත්ය."
+    "input":"lunchekatayamu",
+    "expected":"lunchඑකටයමු"
   },
   {
     "id":"Neg_Fun_0008",
-    "input":"budhDhimaya vimarshanashiiliithvaya varDhanaya karagaeniima magin pudhgalayaagee thiiranaathmaka vichakshanathaavaya suvisheeshii lesa prabala vee.",
-    "expected":"බුද්ධිමය විමර්ශනශීලීත්වය වර්ධනය කරගැනීම මගින් පුද්ගලයාගේ තීරනාත්මක විචක්ශනතාවය සුවිශේශී ලෙස ප්‍රබල වේ."
+    "input":"mamarestaurantekataavithmenuekenfoodorderkala",
+    "expected":"මමrestaurantඑකටඇවිත්menuඑකෙන්foodorderකරා"
   },
   {
     "id":"Neg_Fun_0009",
-    "input":"AaDhyaathmika avabooDhaya, budhDhimaya sQQveedhiithaavaya haa vichakshana chinthana rataava ekineka samaga gaeBUrin sambandha vuu vita, pudhgalayaagee looka dhrushtiya sampuurnayenma pariNAAmayata lak vee. Evaeni parinaamiiya avasthaavakadhii, dhrushya maana sidhDhiin pamanak nova, eevaata pasupasin kriyaathmaka vana heethu-prathiheethu sambanDhathaa dha nivaeradhiva avabooDha karagaeniimata haeki vee. Mee gaeBUru avabooDhaya pudhgalayaata sQQkiirNa gaetalu vimarshanaya kara, saaDhaaraNa haa dhigukaaliina prathiPala labaa dhena thiiraNa gannata manaa magapenvimak sapayayi. Emenma, jiivithayee arThaya, vagakiim saha agayan pilibaDHa savistharaathmaka matha vimasumak sidhu kiriimata meya upakaarii vee.",
-    "expected":"ආධ්යාත්මික අවබෝධය, බුද්ධිමය සංවේදීතාවය හා විචක්ශන චින්තන රටාව එකිනෙක සමග ගැඹුරින් සම්බන්ද වූ විට, පුද්ගලයාගේ ලෝක ද්‍රුශ්ටිය සම්පූර්නයෙන්ම පරිණාමයට ලක් වේ. එවැනි පරිනාමීය අවස්තාවකදී, ද්‍රුශ්ය මාන සිද්ධීන් පමනක් නොව, ඒවාට පසුපසින් ක්‍රියාත්මක වන හේතු-ප්‍රතිහේතු සම්බන්ධතා ද නිවැරදිව අවබෝධ කරගැනීමට හැකි වේ. මේ ගැඹුරු අවබෝධය පුද්ගලයාට සංකීර්ණ ගැටලු විමර්ශනය කර, සාධාරණ හා දිගුකාලීන ප්‍රතිඵල ලබා දෙන තීරණ ගන්නට මනා මගපෙන්විමක් සපයයි. එමෙන්ම, ජීවිතයේ අර්ථය, වගකීම් සහ අගයන් පිලිබඳ සවිස්තරාත්මක මත විමසුමක් සිදු කිරීමට මෙය උපකාරී වේ."
+    "input":"mamaofficeekataawithLaptopEkaopenkaralareportEkaliyalasystemEkataenterkala,passeTeamekaekkaprojectwaedeeganakathaakalaa",
+    "expected":"මමofficeඑකටඇවිත්laptopඑකopenකරලාreportඑකලියලsystemඑකටenterකරලා,පස්සේteamඑකඑක්කprojectවැඩේගැනකතාකලා."
   },
   {
     "id":"Neg_Fun_0010",
-    "input":"thaakshaNika navoothpaadhana, samaajiiya vyuhagatha kriyaakaariithvaya saha aarthika padhDhathi athara pavathina sQQkiirNa antharsambanDhathaavaya vimarshanaya kiriimen, varthamaana samaajayee parinaamiiya gamanmaga paehaedhiliva haDHUnaa gatha haeki vee. Me antharkriyaakaariithvaya avabooDha karagaeniimen prathipaththi sampaadhakayanta, paryeeshakayanta saha sQQvarDhana saelasumkaruvanta praayoogika haa dhigukaaliina visadhum nirmaaNaya kirimata vadaath sudhusu padhanamak laebei. Eseema, sthaayii sQQvarDhanaya, samaaja saaDhaaraNathvaya saha aarthika kaaryakshamathvaya athara samathulithabaavayak pavathvaa gaeniimata avashya muulika dhrushtikoonayan godanaegiimata dha meya maga penvayi.",
-    "expected":"තාක්ශණික නවෝත්පාදන, සමාජීය ව්යුහගත ක්‍රියාකාරීත්වය සහ ආර්තික පද්ධති අතර පවතින සංකීර්ණ අන්තර්සම්බන්ධතාවය විමර්ශනය කිරීමෙන්, වර්තමාන සමාජයේ පරිනාමීය ගමන්මග පැහැදිලිව හඳුනා ගත හැකි වේ. මෙ අන්තර්ක්‍රියාකාරීත්වය අවබෝධ කරගැනීමෙන් ප්‍රතිපත්ති සම්පාදකයන්ට, පර්යේශකයන්ට සහ සංවර්ධන සැලසුම්කරුවන්ට ප්‍රායෝගික හා දිගුකාලීන විසදුම් නිර්මාණය කිරිමට වඩාත් සුදුසු පදනමක් ලැබේ. එසේම, ස්තායී සංවර්ධනය, සමාජ සාධාරණත්වය සහ ආර්තික කාර්යක්ශමත්වය අතර සමතුලිතබාවයක් පවත්වා ගැනීමට අවශ්ය මූලික ද්‍රුශ්ටිකෝනයන් ගොඩනැගීමට ද මෙය මග පෙන්වයි."
+    "input":"mamahospitalekataaevithdoctorgencheckupekakkaragaththaa",
+    "expected":"මමhospitalඑකටඇවිත්doctorගෙන්checkupඑකක්කරගත්තා"
   }
   
 ]
